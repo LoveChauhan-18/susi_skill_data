@@ -1,0 +1,19 @@
+::protected No
+::name Doom 2 Release Date
+::category Knowledge
+::language en
+::description Provides the release date of Doom 2.
+::author Love Chauhan
+::developer_privacy_policy
+::dynamic_content No
+::terms_of_use
+
+When was Doom 2 released?
+When was Doom II released?
+What is the release date of Doom 2?
+When did Doom 2 come out?
+Doom 2 release date
+
+The answer is 26 December 1995.
+Doom 2 was released on 26 December 1995.
+It was released on 26 December 1995.
