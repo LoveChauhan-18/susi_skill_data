@@ -1,0 +1,13 @@
+::protected No
+::name Who Killed Pattern
+::category Communication
+::language en
+::author Love Chauhan
+::description Recognizes "Who killed <someone>" queries
+::dynamic_content No
+
+Who killed *
+Who murdered *
+Who assassinated *
+
+Questions about historical deaths can vary depending on sources. For accurate information about <star/>, please consult trusted historical references.
