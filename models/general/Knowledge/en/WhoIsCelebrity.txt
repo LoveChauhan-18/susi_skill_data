@@ -6,7 +6,7 @@
 
 Who is *
 !console:wiki *
-Here is a short description about $1 from Wikipedia.
+Here is a short description of $1 from Wikipedia.
 
 Who is Susi
 Susi is an open source artificial intelligence project developed by the FOSSASIA community.
