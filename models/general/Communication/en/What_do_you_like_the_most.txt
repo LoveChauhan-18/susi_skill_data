@@ -1,0 +1,20 @@
+::name What do you like the most
+::category Communication
+::language en
+::author Love Chauhan
+::description Recognizes and responds to "What <xy> do you like the most?" and similar preference-based queries
+::dynamic_content No
+
+What * do you like the most?
+What * do you like best?
+Which * do you like the most?
+Which * do you prefer?
+What is your favorite *?
+What's your favorite *?
+Tell me your favorite *
+Do you have a favorite *?
+
+I don't have personal preferences, but many people enjoy different kinds of $1.
+That's a great question! People usually have different tastes when it comes to $1.
+As an AI, I don't have personal favorites, but $1 can be quite interesting!
+It depends on individual taste — different people like different kinds of $1.
