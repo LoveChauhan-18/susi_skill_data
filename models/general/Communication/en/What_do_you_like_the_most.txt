@@ -1,0 +1,14 @@
+::name What do you like the most
+::category Communication
+::language en
+::author Love Chauhan
+::description Recognizes and responds to "What <xy> do you like the most?" queries
+::dynamic_content No
+
+What * do you like the most?
+What is your favorite *?
+Which * do you like the most?
+
+I like many different things! It depends on my mood.
+That's an interesting question! I enjoy various kinds of *.
+I don't have personal preferences, but many people enjoy different kinds of *.
