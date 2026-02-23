@@ -1,0 +1,6 @@
+Play * on YouTube
+Play * music on YouTube
+Play * songs on YouTube
+Play * on YT
+
+!console:youtube $1 music
