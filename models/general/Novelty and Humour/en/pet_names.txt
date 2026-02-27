@@ -1,0 +1,18 @@
+::protected No
+::author Love
+::author_email your_email@example.com
+::name Pet Name Suggestions
+::category Novelty and Humour
+::language en
+::description Suggests creative and cute names for pets.
+::dynamic_content Yes
+::developer_privacy_policy https://github.com/fossasia/susi_skill_data/blob/master/LICENSE
+::terms_of_use https://github.com/fossasia/susi_skill_data/blob/master/LICENSE
+::image images/pet.png
+
+suggest a pet name|pet name suggestion|give me a pet name|suggest names for my dog|suggest names for my cat
+!example: suggest a pet name
+!expect: Bella
+
+Here’s a cute pet name for you:
+$choice(Bella|Max|Charlie|Luna|Rocky|Coco|Daisy|Milo|Simba|Buddy|Lucy|Leo|Nala|Bailey|Toby)
