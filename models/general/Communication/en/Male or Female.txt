@@ -3,18 +3,24 @@
 ::name Male or Female
 ::category Communication
 ::language en
-::author bhadresh   
+::author bhadresh
 ::author_url bhadreshpsavani@gmail.com
-::description This is to address questions like male or female asked to susi, to make it perfect
-::dynamic_content <Yes/No>
+::description Handles gender related questions asked to SUSI in a professional way.
+::dynamic_content No
 ::developer_privacy_policy <link>
 ::image images/<image_name>
 ::terms_of_use <link>
 
+Are you male or female?
+m or f
+male or female
+what is your gender
+are you male
+are you female
+m/f
+m-f
 
-# replace the following lines - click on the (i) to get a tutorial:
+!example: Are you male or female?
+!expect: I am an AI assistant and do not have a gender. I am here to help you regardless of gender.
 
-Are you male or female?|m or f|male or female|What is your gender?
-!example:<The question that should be shown in public skill displays>
-!expect:<The answer expected for the above example>
-My Name may be seems like feminine but I am gender neutral, Thanks you for asking about me!
+I am an AI assistant and do not have a gender. I am here to help you regardless of gender.
