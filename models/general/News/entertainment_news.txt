@@ -1,0 +1,26 @@
+::name Entertainment News
+::author Your Name
+::author_url https://github.com/yourusername
+::description Get latest entertainment news headlines.
+::dynamic_content Yes
+::developer_privacy_policy
+::image images/entertainment_news.png
+::terms_of_use
+
+entertainment news|latest entertainment news|show me entertainment news|tell me entertainment news|entertainment headlines
+!example:entertainment news
+!console:Here are the latest entertainment news headlines
+{
+  "url":"https://newsapi.org/v2/top-headlines?category=entertainment&language=en&apiKey=YOUR_API_KEY",
+  "path":"$.articles[*]",
+  "actions":[
+    {
+      "type":"table",
+      "columns":{
+        "title":"Title",
+        "url":"Read More"
+      }
+    }
+  ]
+}
+eol
