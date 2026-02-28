@@ -1,0 +1,26 @@
+::name Business News
+::author Your Name
+::author_url https://github.com/yourusername
+::description Get latest business news headlines.
+::dynamic_content Yes
+::developer_privacy_policy
+::image images/business_news.png
+::terms_of_use
+
+business news|latest business news|show me business news|tell me business news|business headlines
+!example:business news
+!console:Here are the latest business news headlines
+{
+  "url":"https://newsapi.org/v2/top-headlines?category=business&language=en&apiKey=YOUR_API_KEY",
+  "path":"$.articles[*]",
+  "actions":[
+    {
+      "type":"table",
+      "columns":{
+        "title":"Title",
+        "url":"Read More"
+      }
+    }
+  ]
+}
+eol
