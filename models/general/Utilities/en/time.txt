@@ -7,11 +7,15 @@
 ::image images/time.png
 ::terms_of_use
 
-current time in * | What time is it in * ?| What time it is in * ?|What is the time in * ?|tell me the time in *| can you tell me the time in *| please tell the time in *| What's the time in *| time in *| Could you tell me the time in *| Could you please tell me the time in *
-!example:current time in london
-!console:In $1$ it is $plaintext$ 
+current time in *|what time is it in *|what time it is in *|what is the time in *|tell me the time in *|can you tell me the time in *|please tell the time in *|what's the time in *|time in *|could you tell me the time in *
+!example:current time in London
+!console:Here is the current time in $1$.
 {
-"url":"https://api.wolframalpha.com/v2/query?input=what+time+is+it+in+$1$&format=plaintext&output=JSON&appid=9WA6XR-26EWTGEVTE",
-"path":"$.queryresult.pods[1].subpods"
+  "url":"https://api.wolframalpha.com/v2/query?input=what+time+is+it+in+$1$&format=plaintext&output=JSON&appid=9WA6XR-26EWTGEVTE",
+  "path":"$.queryresult.pods[1].subpods"
 }
+
+what time is it|tell me the time|current time|what's the time
+Sure, I can tell you the current time. Please specify the place name.
+
 eol
