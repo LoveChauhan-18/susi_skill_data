@@ -1,0 +1,13 @@
+::name Star Trek Kirk
+::author Your Name
+::author_url https://github.com/YourUsername
+::description Information about Captain Kirk.
+::dynamic_content No
+::developer_privacy_policy
+::image images/star_trek.png
+::terms_of_use
+
+who is captain kirk|tell me about kirk
+
+Captain James T. Kirk commanded the USS Enterprise in the original Star Trek series.
+eol
