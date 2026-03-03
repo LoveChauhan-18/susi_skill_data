@@ -1,0 +1,13 @@
+::name Star Trek Captain
+::author Your Name
+::author_url https://github.com/YourUsername
+::description Responds with famous Star Trek captains.
+::dynamic_content No
+::developer_privacy_policy
+::image images/star_trek.png
+::terms_of_use
+
+who is the captain of enterprise|star trek captain
+
+James T. Kirk is one of the most famous captains of the USS Enterprise.
+eol
