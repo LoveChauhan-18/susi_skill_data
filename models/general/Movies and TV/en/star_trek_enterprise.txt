@@ -1,0 +1,13 @@
+::name Star Trek Enterprise
+::author Your Name
+::author_url https://github.com/YourUsername
+::description Responds with information about USS Enterprise.
+::dynamic_content No
+::developer_privacy_policy
+::image images/star_trek.png
+::terms_of_use
+
+what is uss enterprise|tell me about enterprise
+
+USS Enterprise is a fictional starship in the Star Trek universe.
+eol
