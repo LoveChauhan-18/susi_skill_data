@@ -1,0 +1,19 @@
+::name Lyrics
+::author Your Name
+::author_url https://github.com/YourUsername
+::description Get song lyrics by providing artist and song name.
+::dynamic_content Yes
+::developer_privacy_policy
+::image images/music.png
+::terms_of_use
+
+lyrics of * by *| get lyrics of * by *| show lyrics of * by *| tell me lyrics of * by *
+
+!example: lyrics of Yellow by Coldplay
+!console: Here are the lyrics:
+
+{
+  "url":"https://api.lyrics.ovh/v1/$2$/$1$",
+  "path":"$.lyrics"
+}
+eol
