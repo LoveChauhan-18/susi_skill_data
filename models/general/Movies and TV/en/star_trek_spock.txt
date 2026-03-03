@@ -1,0 +1,13 @@
+::name Star Trek Spock
+::author Your Name
+::author_url https://github.com/YourUsername
+::description Responds with information about Spock.
+::dynamic_content No
+::developer_privacy_policy
+::image images/star_trek.png
+::terms_of_use
+
+who is spock|tell me about spock
+
+Spock is a half-Vulcan science officer in Star Trek, known for his logic and the phrase "Live long and prosper."
+eol
